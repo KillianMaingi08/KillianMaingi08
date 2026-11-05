@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KillianMaingi08&layout=compact&langs_count=10&theme=tokyonight)
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KillianMaingi08&show_icons=true&theme=tokyonight&hide_border=true)
